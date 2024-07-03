@@ -1,0 +1,139 @@
+*
+{
+    margin: 0%;
+    padding: 0%;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+nav ul {
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
+    align-items: center;
+
+}
+nav ul li{
+    list-style-type: none;
+    cursor: pointer;
+}
+nav ul li:hover{
+    color: blueviolet;
+
+}
+nav ul li button{
+    background-color: beige;
+    color: black;
+    padding: 5px;
+    border-radius: 15px;
+
+}
+.main-content{
+    background-color: white;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.main-content h1{
+    font-size: 90px;
+
+}
+.subdiv-1,.subdiv-2,.subdiv-3,.subdiv-4{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 20px;
+}
+.subdiv-1 ul li,.subdiv-2 ul li,.subdiv-3 ul li,.subdiv-4 ul li{
+    list-style-type: none;
+}
+.maindiv{
+    display: flex;
+    margin-top: 80px;
+    cursor: pointer;
+}
+.musicmatchimage-1{
+    margin-left: 10%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    cursor: pointer;
+}
+.musicmatchimage-2{
+    margin-left: 13%;
+    cursor: pointer;
+}
+.seemorebutton button{
+    background-color: snow;
+    color: black;
+    display: flex;
+    justify-items: center;
+    border-radius: 80px;
+    margin-left: 45%;
+    padding: 15px;
+    cursor: pointer;
+    font-size: 30px;
+
+}
+.main-content-3 ul{
+    margin-top: 5%;
+    margin-left: 15%;
+    font-size: 30px;
+}
+.main-content-4{
+    display: flex;
+    justify-content: center;
+    margin-top: 5%;
+    margin-left: 12%;
+}
+.icon-1{
+    display: flex;
+    justify-content: center;
+    cursor: pointer;
+}
+.icon-2{
+    display: flex;
+    justify-content: center;
+    cursor: pointer;
+}
+.icon-3{
+    display: flex;
+    justify-content: center;
+    cursor: pointer;
+}
+.icon-4{
+    display: flex;
+    justify-content: center;
+    cursor: pointer;
+}
+.icon-5{
+    display: flex;
+    justify-content: center;
+    cursor: pointer;
+}
+.icon-6{
+    display: flex;
+    justify-content: center;
+    cursor: pointer;
+}
+
+
+.main-content-5{
+    display: flex;
+    justify-content: center;
+
+}
+.icon-1{
+    display: flex;
+    justify-content: center;
+    cursor: pointer;
+}
+.icon-2{
+    display: flex;
+    justify-content: center;
+    cursor: pointer;
+}
+.icon-3{
+    display: flex;
+    justify-content: center;
+    cursor: pointer;
+}
